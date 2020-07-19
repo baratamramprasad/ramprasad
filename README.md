@@ -10,6 +10,7 @@
 
 ** Solution **
 
+* [Study guide](#study-guide)
 * [The RemoteDeviceAccessSAAS Design Approaches](#./Architecture Documents/Overview.md)
 
 *NOTE: Each components at this level shall be considered as independant Git repository*
