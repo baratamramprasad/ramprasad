@@ -10,6 +10,6 @@
 
 ** Solution **
 
-* [wiki](#https://github.com/baratamramprasad/ramprasad/wiki)
+* [Wiki](https://github.com/baratamramprasad/ramprasad/wiki)
  
 *NOTE: Each components at this level shall be considered as independant Git repository*
