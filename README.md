@@ -11,7 +11,6 @@ https://github.com/baratamramprasad/FamilyTreeCodeRepo.git
 
 ** Solution **
 
-* [Study guide](#study-guide)
-* [The RemoteDeviceAccessSAAS Design Approaches](#./Architecture Documents/Overview.md)
+* [wiki](#https://github.com/baratamramprasad/ramprasad/wiki)
 
 *NOTE: Each components at this level shall be considered as independant Git repository*
