@@ -1,0 +1,10 @@
+[OSEv3:children]
+masters
+nodes
+etcd
+
+[masters]
+
+[nodes]
+
+[etcd]
