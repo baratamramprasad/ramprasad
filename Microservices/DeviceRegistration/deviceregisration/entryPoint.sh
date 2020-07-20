@@ -1,0 +1,1 @@
+#java -jar DeviceRegistration_1.0.0.jar
