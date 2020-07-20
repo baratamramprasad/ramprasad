@@ -9,7 +9,7 @@
 
 # Solution
 
-Please refer the wiki on the design considiration done on solving the above problem. 
+Please refer the wiki on the design consideration done on solving the above problem. 
 
 * [Wiki](https://github.com/baratamramprasad/ramprasad/wiki)
  
