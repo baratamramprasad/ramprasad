@@ -9,6 +9,8 @@
 ## Business Service
   * DeviceRegistration
   * Webview
+  
+## [Microservice Health Monitoring](https://www.callicoder.com/spring-boot-actuator/)
 
 ## [DeviceRegistration Microservice](https://github.com/baratamramprasad/ramprasad/tree/master/Microservices/DeviceRegistration) has scafolding which will be same for other Micro services.
 
