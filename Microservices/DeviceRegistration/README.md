@@ -1,3 +1,4 @@
-# remotedeviceaccesssaa
+# DeviceRegistration MicroService
 
-+ Note: This shall be considered as independant Git repository for better collabation across the teams
+## Springboot is used for development of Microservice.IT use cassandra Spirng data.
++ 
